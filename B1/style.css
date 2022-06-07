@@ -1,0 +1,169 @@
+.picture_container{
+    height: 480px;
+    width: 640px;
+    margin: auto;
+	position: relative;
+	background: white;
+}
+
+.centar{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.centralpicture{
+    width: 320px;
+    height: 200px;
+}
+
+.minipictures{
+    width: 64px;
+    height: 40px;
+    float: left;
+}
+
+div.ex1{
+width:500px;
+height:200px;
+overflow:scroll;
+}
+
+.minipicturescont{
+    width:500px;
+	margin: 0 auto;
+}
+
+.f_img{
+    padding:10px;
+	margin:10px;
+	width:27%;
+	height:44%;
+}
+
+.pozadina{
+	width:100%;
+	height:300px;
+	padding:10px;
+}
+
+.centernav{
+	text-align:center;
+	padding:10px;
+	margin:10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.autor{
+	margin-top:20px;
+	padding:50px;
+	background: white;
+	height: 500px;
+	border:2px #bf8040;
+	border-radius:5px;
+	font-family:bold;
+	font-size:30px;
+	text-align:center;
+}
+.naslov{
+	background-color: #392613;
+	font-family: 'Redressed', cursive;
+	color:white;
+}
+
+
+footer{
+	text-align: center;
+  padding: 30px;
+  background-color: #bf8040;
+  color: white;
+  position:bottom;
+}
+
+.naV{
+	background:wheat;
+}
+
+.nav-link{
+	color:#b30303;
+}
+
+.info{
+	background:white;
+	color:black;
+	border:2px solid black;
+}
+
+
+.red1,
+.red1 a {}
+.red1 {
+    background-color:#333;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a {
+    outline: none;
+    text-decoration: none;
+}
+#mainav {}
+
+#mainav {
+    line-height: normal;
+}
+#mainav ul {
+    text-align: center;
+}
+#mainav li {
+    display: inline-block;
+    position: relative;
+    margin: 0 40px;
+    padding: 0;
+}
+#mainav li a {
+    display: block;
+    padding: 20px 10px;
+    color: white;
+}
+#mainav a:hover,
+#mainav li:hover>a {
+    color: white;
+    background-color: #604020;
+}
+.blok {
+    display: block;
+}
+ul {
+  list-style-type: none;
+  margin:auto;
+  overflow: hidden;
+  background-color:#604020;
+  padding-right: 35%;
+}
+li {
+  text-align: center;
+}
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding:20px 20px;
+  font-size: 30px;
+}
+li a:hover {
+  background-color: #bf8040;
+}
+hover  {
+  display: block;
+}
+.kolona{
+	text-align: center;
+	float: left;
+}
